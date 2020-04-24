@@ -1,14 +1,20 @@
+
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "productId":"123",
+    "regularPrice":"20.3",
+    "salePrice":"34.69",
+    "quantity":"2",
+    "description":"ehkgbk",
+    "isSale":"yes"
+
+},
+{
+"productId":"12308",
+"regularPrice":"20.983",
+"salePrice":"34.0969",
+"quantity":"7",
+"description":"ehjhbkgbk",
+"isSale":"no"
 }
+]
